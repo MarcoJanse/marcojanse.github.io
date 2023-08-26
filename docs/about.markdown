@@ -10,9 +10,7 @@ permalink: /about/
 
 My name is Marco Janse. (he/him)
 I'm a IT professional with more than 20 years of IT-experience. I have a passion for operating systems, automation, monitoring, and coding. (PowerShell in particular)
-I live in a small town in the Netherlands with my amazing wife and two lovely kids and a wonderful dog.
-
-[I endorce and support male emancipation](https://www.emancipator.nl/ambassadeurs/?avia-element-paging=4)
+I live in a small town in the Netherlands with my amazing wife, two lovely kids and our wonderful dog.
 
 ## My digital portfolio and the things I like
 
@@ -20,6 +18,7 @@ I live in a small town in the Netherlands with my amazing wife and two lovely ki
 - [BlueSky](https://bsky.app/profile/marcojanse.bsky.social) - The better alternative for Twitter since it became "X" (In my opinion)
 - [Twitter/X](https://twitter.com/MarcoJanse) - My Twitter/X-profile, which I hope to abandon once Bluesky is fully adopted.
 - [GitHub](https://github.com/MarcoJanse) - My GitHub handle and my public repositories.
+- [Discord - PowerShell group](https://discord.com/invite/powershell) - You can find me as MarcoJ. (handle is `marcoj0906`)
 - [Stackoverflow](https://stackoverflow.com/users/19788560/marcoj) - My profile on stackoverflow and the questions I've reponded to.
 - [Last.Fm](https://www.last.fm/user/arcom) - I love listening to music and here you can see what I'm listening to.
 - [Spotify](https://open.spotify.com/user/arcom76) - Most of my playlists can be found here.
