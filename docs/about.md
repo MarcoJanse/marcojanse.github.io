@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![About Me](/assets/images/about_marco-2021-transparent.png){:width="20%"}
+![About Me](/assets/images/about_marco-simpsonized.png){:width="20%"}
 
 ## Introduction
 
