@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": "source /usr/local/rvm/scripts/rvm && rvm install 3.2.3 && rvm use 3.2.3 --default && bundle update"
+	"postCreateCommand": "source /usr/local/rvm/scripts/rvm && rvm uninstall 3.3.0 && rvm install 3.2.3 && rvm use 3.2.3 --default && bundle update"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
