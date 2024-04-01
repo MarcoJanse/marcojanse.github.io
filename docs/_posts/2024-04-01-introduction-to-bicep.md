@@ -135,6 +135,11 @@ To get started with Bicep quickly, you can do the following:
 1. Install the tools. See [Set up Bicep development and deployment environments.](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install)
 2. Complete the [quickstart](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code) and the [Learn modules for Bicep.](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep)
 
+## References
+
+There are some great references for using Bicep. I prefer the [Bicep Cheat Sheet](https://github.com/johnlokerse/azure-bicep-cheat-sheet) from John Lokerse.
+Also, his [blog](https://johnlokerse.dev/) contains some great Bicep related articles.
+
 ## Closing notes
 
 After having used ARM templates and Terraform to deploy Azure resources, I found Bicep to be a nice programming language that was easy to get into. The Microsoft Learn documentation and learning modules are a great way to quickly get familiar with the language and hands-on labs.

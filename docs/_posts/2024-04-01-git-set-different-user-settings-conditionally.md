@@ -4,12 +4,16 @@ title:  Set different user settings conditionally in Git
 categories: git
 ---
 
-![Git logo](../assets/images/post_2024-03-13_git-logo.png)
+![Git logo](../assets/images/post_2024-04-01_git-logo2.png){:width="50%"}
 
 ## Introduction
 
 As you probably know, when using git you have to set your user name and email address before you can do any commits.
-Yoou can use `git config user.name "John Doe"` and `git config user.email "john.doe@example.com"` to set these for a specific repository and `git config --global user.name "John Doe"` and `git config --global user.email "john.doe@example.com"` to set these values for all repositories, but what if you want to use different values depending on the customer/folder?
+
+- You can use `git config user.name "John Doe"` and `git config user.email "john.doe@example.com"` to set these for a specific repository
+- You can use `git config --global user.name "John Doe"` and `git config --global user.email "john.doe@example.com"` to set these values for all repositories.
+
+But what if you want to use different values depending on the customer/folder?
 
 I use git both personally, using my own private Github email address, but also for work, where I mostly use my work e-mail address for commits to Azure DevOps. On top of that, I work for different customers where I usually end up with a dedicated user account in the customer's tenant.
 
