@@ -9,8 +9,8 @@ permalink: /about/
 ## Introduction
 
 My name is Marco Janse. (he/him)
-I'm a IT professional with more than 20 years of IT-experience. I have a passion for operating systems, automation, monitoring, and coding. (PowerShell in particular)
-I live in a small town in the Netherlands with my amazing wife, two lovely kids and our wonderful dog.
+I'm a IT professional with more than 20 years of IT-experience. I have a passion for Microsoft Azure, operating systems, automation, monitoring, and coding. (PowerShell in particular)
+I live in a small town in the Netherlands with my amazing wife, two lovely kids and our sweet dog.
 
 ## My digital portfolio and the things I like
 
