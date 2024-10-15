@@ -22,7 +22,7 @@ I live in a small town in the Netherlands with my amazing wife, two lovely kids 
 - [Gûanfú-Taiji](https://guanfu-taiji.nl/) - The martial arts school that I practice tai chi and wushu (kung fu).
 - [Emancipator](https://www.emancipator.nl/) - I'm an ambassador of male emancipation and equality regardless of gender, race or religion.
 - [Stackoverflow](https://stackoverflow.com/users/19788560/marcoj) - My profile on stackoverflow and the questions I've reponded to.
-- [DuPSUG | LinkedIn user group]((https://www.linkedin.com/groups/4496384/)) - The Dutch PowerShell User Group. We are a wonderful community and organize some great meetups during the year.
+- [DuPSUG \| LinkedIn user group]((https://www.linkedin.com/groups/4496384/)) - The Dutch PowerShell User Group. We are a wonderful community and organize some great meetups during the year.
 - [DDOG](https://ddog.nl/) - Dutch DevOps & GitHub Community. Also a great community with some wonderful people and speakers
 - [BlueSky](https://bsky.app/profile/marcojanse.bsky.social) - The better alternative for Twitter since it became "X" (In my opinion)
 - [Twitter/X](https://twitter.com/MarcoJanse) - My Twitter/X-profile, which I hope to abandon once Bluesky is fully adopted.
