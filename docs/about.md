@@ -25,7 +25,6 @@ I live in a small town in the Netherlands with my amazing wife, two lovely kids 
 - [DuPSUG \| LinkedIn user group]((https://www.linkedin.com/groups/4496384/)) - The Dutch PowerShell User Group. We are a wonderful community and organize some great meetups during the year.
 - [DDOG](https://ddog.nl/) - Dutch DevOps & GitHub Community. Also a great community with some wonderful people and speakers
 - [BlueSky](https://bsky.app/profile/marcojanse.bsky.social) - The better alternative for Twitter since it became "X" (In my opinion)
-- [Twitter/X](https://twitter.com/MarcoJanse) - My Twitter/X-profile, which I hope to abandon once Bluesky is fully adopted.
 - [Discord - PowerShell group](https://discord.com/invite/powershell) - You can find me as MarcoJ. (handle is `marcoj0906`)
 
 ## Some of my favorite tools
