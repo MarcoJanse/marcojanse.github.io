@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new chapter in my tech career
-categories: softskills
+categories: [softskills]
 ---
 
 ## Introduction

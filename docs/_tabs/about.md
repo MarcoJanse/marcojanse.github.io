@@ -1,10 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+icon: fas fa-info-circle
+order: 4
 ---
 
-![About Me](/assets/images/about_marco-simpsonized.png){:width="20%"}
+![About Me](/assets/images/about_marco-simpsonized.png){: width="20%" }
 
 ## Introduction
 

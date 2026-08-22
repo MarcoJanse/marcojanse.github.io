@@ -2,7 +2,8 @@
 layout: post
 title:  "Your tenant quota has exceeded error in Azure Runbook"
 date:   2023-09-10
-categories: azure runbook exchange powershell
+categories: [azure, runbook]
+tags: [exchange, powershell]
 ---
 
 ## Problem

@@ -1,0 +1,24 @@
+#  The contact options, shown as icons at the bottom of the sidebar.
+
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/marco-janse-publicprofile"
+
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/marcojanse.bsky.social"
+
+- type: stack-overflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/19788560/marcoj"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true

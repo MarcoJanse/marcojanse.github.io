@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PowerShell function to copy files multiple times
-categories: powershell filemanagement
+categories: [powershell, filemanagement]
 ---
 
 ## Introduction

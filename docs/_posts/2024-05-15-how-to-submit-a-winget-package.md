@@ -1,7 +1,7 @@
 ---
 title: How to submit a winget package to the package repository
 layout: post
-categories: contributing, applicationmanagement
+categories: [contributing, applicationmanagement]
 ---
 
 ## Index
