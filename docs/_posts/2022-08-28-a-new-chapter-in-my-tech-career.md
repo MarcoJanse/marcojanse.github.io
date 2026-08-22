@@ -66,7 +66,7 @@ In conclusion to this post I want to sum up some of the things that helped me an
 - [The Lonely Administrator](https://jdhitsolutions.com/blog/) - Jeff Hicks blog. If you want to learn PowerShell, he's the absolute master. 
 - [Getting Started with Microsoft PowerShell](https://docs.microsoft.com/en-us/shows/getting-started-with-microsoft-powershell/) - if you prefer video, these videos with Jeffrey Snover and Jason Helmick are excellent (and funny too sometimes)
 - [Powershell Tips and Tricks \| Jeff Hicks](https://jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/) - This page is such a great start 
-- [DuPSUG](http://dupsug.com/) - The Dutch PowerShell User Group. We are a wonderful community and organize some great meetups during the year.
+- [DuPSUG](https://www.linkedin.com/groups/4496384/) - The Dutch PowerShell User Group. We are a wonderful community and organize some great meetups during the year.
 - [DDOG](https://ddog.nl/) - Dutch DevOps & GitHub Community. Also a great community with some wonderful people and speakers
 - [PowerShell related tweets \| Twitter.com](https://twitter.com/search?q=%23PowerShell&src=typeahead_click)
 - [PowerShell.org](https://powershell.org/)

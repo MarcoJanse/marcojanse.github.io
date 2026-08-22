@@ -57,14 +57,14 @@ With all these requirements covered, let's get started!
 
 ### Invite/create guest account in source tenant
 
-- In your source tenant go to the [Entra ID portal](entra.cmd.ms)
+- In your source tenant go to the [Entra ID portal](https://entra.cmd.ms)
 - Under Users - New Users, select the `Invite External User` option
   - Depending on the template you will only need to enter the Email address of the administrator of the target tenant or fill in some more details.
 - After this, an Email should be sent to the target tenant's administrator account.
 
 ### Accept the invitation
 
-- Open the Email of the user/administrator from the other tenant and you should have an Email from [invites@microsoft.com](invites@microsoft.com).
+- Open the Email of the user/administrator from the other tenant and you should have an Email from [invites@microsoft.com](mailto:invites@microsoft.com).
 - Using the link from the Email accept the invitation
 
 ### Validate Guest user and assign subscription permissions
