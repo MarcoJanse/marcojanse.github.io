@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Using a Yubikey with GitHub for signing your commits
-categories: github security authentication
---- 
+categories: [github, security]
+tags: [authentication]
+---
 
 ## Introduction
 

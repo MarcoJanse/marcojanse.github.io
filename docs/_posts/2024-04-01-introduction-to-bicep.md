@@ -1,7 +1,8 @@
 ---
 layout: post
 title: An introduction to Bicep
-categories: iac bicep azure
+categories: [iac, bicep]
+tags: [azure]
 ---
 
 - [Introduction](#introduction)

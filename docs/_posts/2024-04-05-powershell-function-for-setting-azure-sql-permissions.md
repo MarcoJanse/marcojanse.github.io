@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Set specific database role permissions Azure SQL
-categories: powershell azure sql rbac
+categories: [powershell, azure]
+tags: [sql, rbac]
 ---
 
 ## Introduction

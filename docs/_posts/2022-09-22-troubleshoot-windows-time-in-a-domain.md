@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Troubleshoot Windows Time in a domain"
-categories: windows activedirectory
+categories: [windows, activedirectory]
 ---
 
 

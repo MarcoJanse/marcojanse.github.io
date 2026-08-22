@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unable to find git credential manager in WSL"
-categories: coding git
+categories: [coding, git]
 ---
 
 

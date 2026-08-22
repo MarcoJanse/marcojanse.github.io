@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transfer your Visual Studio Enterprise subscription to another Azure tenant
-categories: azure
+categories: [azure]
 ---
 
 - [Introduction](#introduction)

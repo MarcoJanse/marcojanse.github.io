@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Set different user settings conditionally in Git
-categories: git
+categories: [git]
 ---
 
 ![Git logo](../assets/images/post_2024-04-01_git-logo2.png){:width="50%"}

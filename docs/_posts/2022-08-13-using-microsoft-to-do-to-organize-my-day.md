@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Microsoft To Do to organize my day"
-categories: softskills working-habits
+categories: [softskills, working-habits]
 ---
 
 ## Distractions

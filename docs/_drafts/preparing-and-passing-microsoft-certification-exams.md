@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preparing and Passing Microsoft Certification Exams"
-categories: learning
+categories: [learning]
 ---
 
 ## Introduction
