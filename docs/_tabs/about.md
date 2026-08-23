@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![About Me](/assets/images/about_marco-simpsonized.png){: width="20%" }
+![About Me](/assets/images/about_marco-simpsonized-transparent.png){: width="20%" }
 
 ## Introduction
 
@@ -22,17 +22,15 @@ I live in a small town in the Netherlands with my amazing wife, two lovely kids 
 - [Emancipator](https://www.emancipator.nl/) - I'm an ambassador of male emancipation and equality regardless of gender, race or religion.
 - [Stackoverflow](https://stackoverflow.com/users/19788560/marcoj) - My profile on stackoverflow and the questions I've reponded to.
 - [DuPSUG \| LinkedIn user group](https://www.linkedin.com/groups/4496384/) - The Dutch PowerShell User Group. We are a wonderful community and organize some great meetups during the year.
-- [DDOG](https://ddog.nl/) - Dutch DevOps & GitHub Community. Also a great community with some wonderful people and speakers
 - [BlueSky](https://bsky.app/profile/marcojanse.bsky.social) - The better alternative for Twitter since it became "X" (In my opinion)
-- [Discord - PowerShell group](https://discord.com/invite/powershell) - You can find me as MarcoJ. (handle is `marcoj0906`)
 
 ## Some of my favorite tools
 
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/about)
 - [VSCode](https://code.visualstudio.com/)
-- [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [Terraform](https://www.terraform.io/)
+- [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [KeePass](https://keepass.info/) [KeePassXC](https://keepassxc.org/) and [KeePassium](https://keepassium.com/)
