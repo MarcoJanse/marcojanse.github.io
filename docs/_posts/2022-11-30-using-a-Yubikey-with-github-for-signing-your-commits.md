@@ -7,7 +7,7 @@ tags: [authentication]
 
 ## Introduction
 
-I've been using Git and GitHub for quite some time now, but I wanted to added an extra layer of security. By default, anyone could impersonate me by comitting to my public repositories (or other repositories) by configuring the same User name and Email address in their local git config. While I don't expect anyone to do this, you should always be prepared for the worst. Besides that, I really like to see the verified badge for all my commits. :blush:
+I've been using Git and GitHub for quite some time now, but I wanted to added an extra layer of security. By default, anyone could impersonate me by comitting to my public repositories (or other repositories) by configuring the same User name and Email address in their local git config. While I don't expect anyone to do this, you should always be prepared for the worst. Besides that, I really like to see the verified badge for all my commits. 😊
 
 ### Yubikey
 
