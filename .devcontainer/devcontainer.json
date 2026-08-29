@@ -11,8 +11,11 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000, 35729],
 
-	// Install gems automatically once the container is created.
-	"postCreateCommand": "cd docs"
+	// Open the docs folder as the workspace so the editor starts there.
+	"workspaceFolder": "${localWorkspaceFolder}/docs",
+
+	// Install gems into the repo instead of /usr/local/bundle so new Codespaces stay writable.
+	"postCreateCommand": "bash -lc 'bundle config set --local path \"vendor/bundle\" && bundle config set --local cache_path \".bundle/cache\" && bundle install'",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
