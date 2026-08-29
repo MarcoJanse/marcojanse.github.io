@@ -14,6 +14,14 @@ Thankfully, signing your commits when using GitHub Codespaces is quite easy and 
 
 By default it's off: GPG verification is disabled for Codespaces you create. If you enable it, your commits are signed in repositories that you trust, and your trusted-repo list is shared between GPG verification and Settings Sync.
 
+## Why is commit signing important?
+
+- Authenticity: Verifies that the commit was really made by you.
+- Trust: Helps collaborators and open source maintainers trust your contributions.
+- Security: Prevents someone else from pretending to be you via forged commits.
+
+GitHub displays a “Verified” badge when your commits are correctly signed and the key is associated with your account.
+
 Below are the steps required to configure it.
 
 ## Configure GPG signing for Codespaces
