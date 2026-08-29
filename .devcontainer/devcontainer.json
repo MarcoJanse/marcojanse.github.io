@@ -11,14 +11,18 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000, 35729],
 
-	// Open the docs folder as the workspace so the editor starts there.
-	"workspaceFolder": "${localWorkspaceFolder}/docs",
+	// Open new integrated terminals already inside docs/, without changing what
+	// VS Code treats as the workspace root — Explorer/search/git stay repo-wide.
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"terminal.integrated.cwd": "${containerWorkspaceFolder}/docs"
+			}
+		}
+	},
 
 	// Install gems into the repo instead of /usr/local/bundle so new Codespaces stay writable.
-	"postCreateCommand": "bash -lc 'bundle config set --local path \"vendor/bundle\" && bundle config set --local cache_path \".bundle/cache\" && bundle install'",
-
-	// Configure tool-specific properties.
-	// "customizations": {},
+	"postCreateCommand": "bash -lc 'cd docs && bundle config set --local path \"vendor/bundle\" && bundle config set --local cache_path \".bundle/cache\" && bundle install'"
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
