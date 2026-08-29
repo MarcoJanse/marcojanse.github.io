@@ -4,24 +4,6 @@ layout: post
 categories: [contributing, applicationmanagement]
 ---
 
-## Index
-
-- [Index](#index)
-- [Introduction](#introduction)
-  - [Background: The winget package repository](#background-the-winget-package-repository)
-- [Prerequisites](#prerequisites)
-- [Steps](#steps)
-  - [Preparation and validation](#preparation-and-validation)
-  - [Create the winget manifest files for the installer package](#create-the-winget-manifest-files-for-the-installer-package)
-  - [Modify the manifest files and store them in a new branch of your forked repository](#modify-the-manifest-files-and-store-them-in-a-new-branch-of-your-forked-repository)
-  - [Validate the manifest files](#validate-the-manifest-files)
-  - [Test the manifest with Windows Sandbox](#test-the-manifest-with-windows-sandbox)
-  - [Commit an push your changes](#commit-an-push-your-changes)
-  - [Create a pull request to the microsoft/winget-pkgs repository](#create-a-pull-request-to-the-microsoftwinget-pkgs-repository)
-  - [After successful merging of your pull request](#after-successful-merging-of-your-pull-request)
-- [Closing notes](#closing-notes)
-- [References](#references)
-
 ## Introduction
 
 When using Windows client systems, installing applications and keeping them up-to-date used to be quite a hassle in the old days. In the past, I used to rely on [Chocolatey](https://chocolatey.org/) to keep all my applications up-to-date. Nowadays, I prefer to use the built-in [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) tool to install and update packages on Windows client devices.

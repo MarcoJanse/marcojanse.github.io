@@ -5,17 +5,6 @@ categories: [iac, bicep]
 tags: [azure]
 ---
 
-- [Introduction](#introduction)
-- [Background](#background)
-- [What is Infrastructure as Code (IaC)?](#what-is-infrastructure-as-code-iac)
-- [ARM Templates](#arm-templates)
-- [What is Bicep?](#what-is-bicep)
-  - [Benefits of Bicep](#benefits-of-bicep)
-  - [Example of Bicep code](#example-of-bicep-code)
-- [Get started](#get-started)
-- [Closing notes](#closing-notes)
-
-
 ## Introduction
 
 In this article, we will explain what Bicep is, what benefits it has and why you should use it to deploy your infrastructure in Azure.

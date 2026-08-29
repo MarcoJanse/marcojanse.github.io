@@ -4,18 +4,6 @@ title: Transfer your Visual Studio Enterprise subscription to another Azure tena
 categories: [azure]
 ---
 
-- [Introduction](#introduction)
-- [Best practices](#best-practices)
-- [Prerequisites](#prerequisites)
-- [Steps](#steps)
-  - [Invite/create guest account in source tenant](#invitecreate-guest-account-in-source-tenant)
-  - [Accept the invitation](#accept-the-invitation)
-  - [Validate Guest user and assign subscription permissions](#validate-guest-user-and-assign-subscription-permissions)
-  - [Allow the subscription to leave and enter the tenant (new since May 2026)](#allow-the-subscription-to-leave-and-enter-the-tenant-new-since-may-2026)
-  - [Move the subscription to the target tenant](#move-the-subscription-to-the-target-tenant)
-  - [Remove Guest account from the source tenant](#remove-guest-account-from-the-source-tenant)
-- [Closing notes](#closing-notes)
-
 > **Update (August 2026):** Microsoft changed the default behavior of Azure subscription transfers. Since May 1, 2026, every tenant's "subscription transfer policy" defaults to blocking both inbound and outbound transfers, so the steps below now include an extra step to explicitly allow the move. If you followed this guide before and it "just worked," that's why it might not anymore. See the new [Allow the subscription to leave and enter the tenant](#allow-the-subscription-to-leave-and-enter-the-tenant-new-since-may-2026) step.
 
 ## Introduction
