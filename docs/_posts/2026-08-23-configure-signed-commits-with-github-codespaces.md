@@ -40,6 +40,11 @@ Below are screenshots of how this looks in your settings.
 ## Wrapping up
 
 After configuring this and committing something on a trusted repository using Codespaces, the commit should now be signed.
+
+This will look like this:
+
+![verified commits](../assets/images/post_2026-08-23_github-codespaces-verified-commits.png)
+
 I hope you found this article useful.
 
 Happy coding! 😊
